@@ -1,31 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
-     <loc>https://mulaab.github.io/atascience/</loc>
-     <lastmod>2020-08-31</lastmod>
+     <loc>https://mulaab.github.io/datascience/</loc>
+     <lastmod>2020-09-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://mulaab.github.io/atascience/memahami-data/</loc>
-     <lastmod>2020-08-31</lastmod>
+     <loc>https://mulaab.github.io/datascience/memahami/</loc>
+     <lastmod>2020-09-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://mulaab.github.io/atascience/extensions/admonition/</loc>
-     <lastmod>2020-08-31</lastmod>
+     <loc>https://mulaab.github.io/datascience/Eksplorasidata-2/</loc>
+     <lastmod>2020-09-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://mulaab.github.io/atascience/extensions/admonition/</loc>
-     <lastmod>2020-08-31</lastmod>
+     <loc>https://mulaab.github.io/datascience/customization/</loc>
+     <lastmod>2020-09-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://mulaab.github.io/atascience/Eksplorasidata-2/</loc>
-     <lastmod>2020-08-31</lastmod>
+     <loc>https://mulaab.github.io/datascience/compliance/</loc>
+     <lastmod>2020-09-01</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://mulaab.github.io/atascience/customization/</loc>
-     <lastmod>2020-08-31</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://mulaab.github.io/atascience/compliance/</loc>
-     <lastmod>2020-08-31</lastmod>
+     <loc>https://mulaab.github.io/datascience/customization/</loc>
+     <lastmod>2020-09-01</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
